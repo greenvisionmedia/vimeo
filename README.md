@@ -1,3 +1,3 @@
-# GV Template
+# `template`
 Template to create web scripts in the GV style 
-[Docs page](greenvision.media/docs/scripting)
+[Docs page](greenvision.media/docs/scripting/)
