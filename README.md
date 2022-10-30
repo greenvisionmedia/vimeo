@@ -1,3 +1,4 @@
 # `template`
-Template to create web scripts in the GV style 
+
+Template to create web plugins in the GV style
 [Docs page](greenvision.media/docs/scripting/)
