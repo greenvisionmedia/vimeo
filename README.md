@@ -1,4 +1,4 @@
-# `template`
+# `vimeo`
 
-Template to create web plugins in the GV style
-[Docs page](greenvision.media/docs/scripting/)
+Adds a performance-enhanced vimeo embed to the page
+[Docs page](greenvision.media/docs/scripting/#vimeo)
